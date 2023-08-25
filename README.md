@@ -1,4 +1,4 @@
-# trabalhos
+# Trabalho
 Atividade - Shell Script
 
 Crie cinco shell scripts que:
